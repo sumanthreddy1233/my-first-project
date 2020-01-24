@@ -6,6 +6,7 @@ Sumanth Reddy
 919591478
 ## College Name 
 Northwest Missouri State University
+[my linkedin profile](https://www.linkedin.com/in/sumanth-reddy-76a88719a/)
 ### Links
 [College link](https://www.nwmissouri.edu/login/)
 ### images
