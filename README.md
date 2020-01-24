@@ -4,9 +4,10 @@ This is my initial repository
 Sumanth Reddy
 ## Student Id
 919591478
+##
+[my linkedin profile](https://www.linkedin.com/in/sumanth-reddy-76a88719a/)
 ## College Name 
 Northwest Missouri State University
-[my linkedin profile](https://www.linkedin.com/in/sumanth-reddy-76a88719a/)
 ### Links
 [College link](https://www.nwmissouri.edu/login/)
 ### images
