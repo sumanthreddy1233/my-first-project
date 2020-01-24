@@ -14,3 +14,7 @@ Northwest Missouri State University
 1. Advanced data base
 1. Developping Web Apps
 1. Object Oriented Programming concepts
+### Topics in Developing Web Apps
+* Create Account in github
+* Install powershell 
+* Install all the required apps using powershell
