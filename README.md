@@ -1,4 +1,4 @@
-# my-first-project
+# My-first-project
 This is my initial repository
 ## Name of the student
 Sumanth Reddy
@@ -11,7 +11,7 @@ Sumanth Reddy
 
 ![sumanth](https://i.pinimg.com/originals/41/ce/68/41ce6822631d5c96c0eac24c4f77df12.jpg)
 
-[my linkedin profile](https://www.linkedin.com/in/sumanth-reddy-76a88719a/)
+My [linkedin profile](https://www.linkedin.com/in/sumanth-reddy-76a88719a/)
 ## College Name 
 Northwest Missouri State University
 ### Links
