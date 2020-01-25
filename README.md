@@ -16,9 +16,9 @@ My [linkedin profile](https://www.linkedin.com/in/sumanth-reddy-76a88719a/)
 Northwest Missouri State University
 ### Links
 [College link](https://www.nwmissouri.edu/login/)
-### images
-![college photo](https://www.nwmissouri.edu/layout/v2019/images/svg/logo-n.svg)
-### course structure
+### Images
+![College photo](https://www.nwmissouri.edu/layout/v2019/images/svg/logo-n.svg)
+### Course structure
 1. Advanced data base
 1. Developping Web Apps
 1. Object Oriented Programming concepts
